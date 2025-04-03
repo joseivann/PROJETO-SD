@@ -8,3 +8,6 @@ Projeto final da disciplina de SD (CIn-UFPE)
 - Programa escolhido será um sistema de alarme simples
 - Software escrito com a linguagem Python.
 - Adaptado para a linguagem MIPS Assembly.
+
+
+#ESCOPO DO PROJETO 
